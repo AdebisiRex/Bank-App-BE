@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.575f86a9.css",
+    "main.js": "/static/js/main.37d2bfc1.js",
+    "static/js/787.ab64e9c6.chunk.js": "/static/js/787.ab64e9c6.chunk.js",
+    "static/media/personal.jpg": "/static/media/personal.dec6110a3d6c0e6cfc88.jpg",
+    "static/media/old.jpg": "/static/media/old.7e25a3ea13e54aa730ca.jpg",
+    "static/media/interplanet.jpg": "/static/media/interplanet.5ae37ea2e9e9cdcff1c7.jpg",
+    "static/media/local.jpg": "/static/media/local.8b0c6ff39c8024ef3a2f.jpg",
+    "static/media/boy.jpg": "/static/media/boy.0060087137a1cd2fdd00.jpg",
+    "static/media/current.jpg": "/static/media/current.41e0cc84dd86f5a609ab.jpg",
+    "static/media/freedom.jpg": "/static/media/freedom.a4e5f2350e18a0238b29.jpg",
+    "static/media/stop-fraud-slider.jpg": "/static/media/stop-fraud-slider.b8724a0b0820e3035b83.jpg",
+    "static/media/mastercard.png": "/static/media/mastercard.01f8b8f1d36fc4d50f30.png",
+    "static/media/paul.jpg": "/static/media/paul.be8040d8b608f2c9ba21.jpg",
+    "static/media/chippng.png": "/static/media/chippng.4f3bbf629b02f947aee1.png",
+    "static/media/logo.png": "/static/media/logo.6bed038ceeae64a64ed9.png",
+    "static/media/visa.png": "/static/media/visa.a458aef00665743f91bf.png",
+    "static/media/seafood.jpg": "/static/media/seafood.7b814a88fc726ad3d432.jpg",
+    "index.html": "/index.html",
+    "main.575f86a9.css.map": "/static/css/main.575f86a9.css.map",
+    "main.37d2bfc1.js.map": "/static/js/main.37d2bfc1.js.map",
+    "787.ab64e9c6.chunk.js.map": "/static/js/787.ab64e9c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.575f86a9.css",
+    "static/js/main.37d2bfc1.js"
+  ]
+}
