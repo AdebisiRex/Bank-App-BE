@@ -15,7 +15,7 @@ const signup = (req, res) => {
 
 const signin = (req, res) => {
   let { em_username, password } = req.body;
-
+  console.log(em_username)
   userModel.findOne(
     {
       $or: [
@@ -25,6 +25,7 @@ const signin = (req, res) => {
     },
     (err, result) => {
       if (err) {
+        console.log(err)
         res.send({ reponse: false, message: err.message });
       } else {
         res.send({ result: result, response: true, message: "" });
